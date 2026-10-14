@@ -41,7 +41,4 @@ Note: To execute the pipeline locally, users must provide their own structured d
    git clone https://github.com/ekaingutierrez/basquefik-financial-diagnostics.git
    cd basquefik-financial-diagnostics
 
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the analysis notebooks sequentially from 01_ to 06_ (Requires local dataset in /Data).
+2. Run the analysis notebooks sequentially from 01_ to 06_ (Requires local dataset in /Data).
