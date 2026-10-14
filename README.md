@@ -45,8 +45,3 @@ Note: To execute the pipeline locally, users must provide their own structured d
    pip install -r requirements.txt
 
 3. Run the analysis notebooks sequentially from 01_ to 06_ (Requires local dataset in /Data).
-
-## Author
-Ekain Gutierrez
-LinkedIn: https://www.linkedin.com/in/ekain-gutierrez/
-GitHub: https://github.com/ekaingutierrez
